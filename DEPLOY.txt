@@ -1,0 +1,9 @@
+# Elke Gravert - Cloudflare deployment
+
+This is a repaired static export of the Weebly site.
+
+Cloudflare Workers Builds:
+- Build command: `exit 0`
+- Deploy command: `npx wrangler deploy`
+
+The site files and `wrangler.jsonc` must be in the repository root.
